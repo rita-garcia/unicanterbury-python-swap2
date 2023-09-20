@@ -16,7 +16,7 @@ sys.path.append(os.getcwd())
 
 home_dir = os.getcwd()
 
-project_name = "python-swap2"
+project_name = "uc-python-swap2"
 
 #master_url = None
 #if master_url is None:
@@ -36,7 +36,7 @@ if master_url is None:
     master_url = get_master_url()
 
 master_app = 'runestone'
-serving_dir = "./build/python-swap2"
+serving_dir = "./build/uc-python-swap2"
 
 #new 7/2019 changes
 # Change to False when running localhost
@@ -56,9 +56,9 @@ options(
     sphinx = Bunch(docroot=".",),
 
     build = Bunch(
-        builddir="./build/python-swap2",
+        builddir="./build/uc-python-swap2",
         sourcedir="_sources",
-        outdir="./build/python-swap2",
+        outdir="./build/uc-python-swap2",
         confdir=".",
         project_name=project_name,
         template_args={'course_id': project_name,
@@ -69,7 +69,7 @@ options(
                        'use_services': 'true',
                        'python3': 'true',
                        'dburl': 'postgresql://runestone@localhost/runestone',
-                       'basecourse': 'python-swap2',
+                       'basecourse': 'uc-python-swap2',
                         # new 7/2019 changes
                        'dynamic_pages': dynamic_pages,
                        'downloads_enabled': 'false',
