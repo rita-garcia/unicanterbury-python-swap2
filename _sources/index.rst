@@ -24,7 +24,7 @@ the assignment.  Please do the parts in order and answer questions to the best
 of your ability without any outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
 
-If you have questions about this assignment please email Dr. Susan Rodger at rodger@cs.duke.edu.
+If you have questions about this assignment please email Dr. Barbara Ericson at barbarer@umich.edu.
 
 The four parts are:
 
