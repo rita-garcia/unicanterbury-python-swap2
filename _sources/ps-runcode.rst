@@ -12,9 +12,9 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
    Run the code below?  Does it correctly swap the values?
    ~~~~
 
+   # set the initial values of x and y
    x = 6
    y = 2
-   temp = 0
 
    # print the values
    print(x)
@@ -33,9 +33,6 @@ Practice Problems
 -----------------------------------------------------
 
 Please read the following and run the code.
-
-Problems
-==============
 
 .. activecode:: ps-run-code-1
    :autograde: unittest

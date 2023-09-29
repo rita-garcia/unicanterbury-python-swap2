@@ -1,6 +1,10 @@
 Post Test
 -----------------------------------------------------
 
+.. shortanswer:: ps-what-learned-practice-sa
+
+   Please tell us in your own words what you learned from the practice on the previous page, if anything.
+
 Please answer
 the following problems to the best of your ability without any
 outside help. You can stop working on a problem after you worked
@@ -15,6 +19,7 @@ Problems
    Finish writing the code to swap the values in x and y (so that x ends up with y's initial value and y ends up with x's initial value).
    ~~~~
 
+   # set the initial values of x and y
    x = 6
    y = 2
 
@@ -23,7 +28,7 @@ Problems
    print(y)
 
    # swap the values of x and y
-   # write your code here
+   #*** write your code here ***
 
    # print the values
    print(x)
@@ -44,6 +49,7 @@ Problems
    Finish writing the code to swap the values in a and b (so that a ends up with b's initial value and b ends up with a's initial value).
    ~~~~
 
+   # set the initial values of a and b
    a = -3
    b = 5
 
@@ -52,7 +58,7 @@ Problems
    print(b)
 
    # swap the values of a and b
-   # write your code here
+   #*** write your code here ***
 
    # print the values
    print(a)
