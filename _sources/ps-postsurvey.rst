@@ -27,7 +27,7 @@ Please answer the following questions.
 
 .. shortanswer:: ps-post-6-hours
 
-   About how many hours have you been doing textual programming?
+   About how many hours have you been programming in Python?
 
 .. shortanswer:: ps-post-7-langs
 

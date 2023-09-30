@@ -19,17 +19,18 @@ Assignment Information
 Thank you for taking part in this assignment! We are researchers who are trying
 to improve the teaching and learning of programming.
 
-This assignment has four parts.  It will take approximately 30 minutes or less to complete
+This assignment has five parts.  It will take approximately 30 minutes or less to complete
 the assignment.  Please do the parts in order and answer questions to the best
 of your ability without any outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
 
 If you have questions about this assignment please email Dr. Barbara Ericson at barbarer@umich.edu.
 
-The four parts are:
+The five parts are:
 
 - Pre Survey - Questions about your experience and confidence in computing
 - Introduction - Materials to get you familiar with the types of problems in this assignment
+- Prediction - Read code and predict what it will print
 - Practice - Practice problems
 - Post Test - Post test problems
 
