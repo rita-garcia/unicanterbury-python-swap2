@@ -9,7 +9,7 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
 .. activecode:: ps-pre-swap-run-code-ac
    :autograde: unittest
 
-   Run the code below?  Does it correctly swap the values?
+   Run the code below.  Does it correctly swap the values?
    ~~~~
 
    # set the initial values of x and y
