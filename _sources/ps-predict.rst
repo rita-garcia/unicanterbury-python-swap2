@@ -10,22 +10,22 @@ Read the code below and then answer the following question.
       y = 2
 
       # print the values
-      print("x", x)
-      print("y", y)
+      print("x =", x)
+      print("y =", y)
 
       # swap the values of x and y
       x = y
       y = x
 
       # print the values
-      print("x", x)
-      print("y", y)
+      print("x =", x)
+      print("y =", y)
 
 .. poll:: ps-predict-poll
-   :option_1: It will print: 6, 2, 2, 6
-   :option_2: It will print: 2, 6, 6, 2
-   :option_3: It will print: 6, 2, 2, 2
-   :option_4: It will print: 2, 6, 6, 6 
+   :option_1: It will print: x = 6, y = 2, x = 2, y = 6
+   :option_2: It will print: x = 2, y = 6, x = 6, y = 2
+   :option_3: It will print: x = 6, y = 2, x = 2, y = 2
+   :option_4: It will print: x = 2, y = 6, y = 6, y = 6 
    :option_5: None of the above
 
    What will the code above print?  To save space we are showing all of the answers on one line with a comma between values rather than on different lines.

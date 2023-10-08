@@ -15,16 +15,16 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
    y = 2
 
    # print the values
-   print("x", x)
-   print("y", y)
+   print("x =", x)
+   print("y =", y)
 
    # swap the values of x and y
    x = y
    y = x
 
    # print the values
-   print("x", x)
-   print("y", y)
+   print("x =", x)
+   print("y =", y)
 
 Practice Problems
 -----------------------------------------------------
