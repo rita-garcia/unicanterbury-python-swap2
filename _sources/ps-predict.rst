@@ -10,16 +10,16 @@ Read the code below and then answer the following question.
       y = 2
 
       # print the values
-      print(x)
-      print(y)
+      print("x", x)
+      print("y", y)
 
       # swap the values of x and y
       x = y
       y = x
 
       # print the values
-      print(x)
-      print(y)
+      print("x", x)
+      print("y", y)
 
 .. poll:: ps-predict-poll
    :option_1: It will print: 6, 2, 2, 6

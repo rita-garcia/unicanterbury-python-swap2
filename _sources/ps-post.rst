@@ -24,15 +24,15 @@ Problems
    y = 2
 
    # print the values
-   print(x)
-   print(y)
+   print("x", x)
+   print("y", y)
 
    # swap the values of x and y
    #*** write your code here ***
 
    # print the values
-   print(x)
-   print(y)
+   print("x", x)
+   print("y", y)
    ====
    from unittest.gui import TestCaseGui
    class myTests(TestCaseGui):
@@ -54,15 +54,15 @@ Problems
    b = 5
 
    # print the values
-   print(a)
-   print(b)
+   print("a", a)
+   print("b", b)
 
    # swap the values of a and b
    #*** write your code here ***
 
    # print the values
-   print(a)
-   print(b)
+   print("a", a)
+   print("b", b)
    ====
    from unittest.gui import TestCaseGui
    class myTests(TestCaseGui):
