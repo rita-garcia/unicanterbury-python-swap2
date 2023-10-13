@@ -9,7 +9,7 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
 .. activecode:: ps-pre-swap-run-code-ac
    :autograde: unittest
 
-   Run the code below?  Does it correctly swap the values?
+   Run the code below.  Does it correctly swap the values?
    ~~~~
 
    # set the initial values of x and y
@@ -17,16 +17,16 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
    y = 2
 
    # print the values
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
    # swap the values of x and y
    x = y
    y = x
 
    # print the values
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
 
 Practice Problems
@@ -43,15 +43,15 @@ Please read the following and run the code.
    x = 6
    y = 2
 
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
    temp = x
    x = y
    y = temp
 
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
 .. activecode:: ps-run-code-2
    :autograde: unittest
@@ -65,8 +65,8 @@ Please read the following and run the code.
    y = 2
 
    # print the values
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
    # swap the values of x and y
    temp = x
@@ -74,8 +74,8 @@ Please read the following and run the code.
    y = temp
 
    # print the values
-   print(x)
-   print(y)
+   print("x =", x)
+   print("y =", y)
 
 The following has just the steps in English to *swap* the values in x and y 
 (so that x ends up with y's initial value and y ends up with x's initial value),
