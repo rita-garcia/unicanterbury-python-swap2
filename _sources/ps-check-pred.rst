@@ -1,9 +1,11 @@
-Queck Your Prediction 
+Check Your Prediction 
 ----------------------------------------
 
 When you *swap* the values of two variables such as ``x`` and ``y``, ``x`` will have the initial 
 value in ``y`` and ``y`` will have the initial value in ``x``.  If x's initial value was 6 and y's
 was 2 then after the swap x will have a value of 2 and y will have a value of 6.
+
+Run the code below.  Does it correctly swap the values?
 
 
 .. activecode:: ps-pre-swap-run-code-ac
@@ -31,7 +33,7 @@ was 2 then after the swap x will have a value of 2 and y will have a value of 6.
 
 .. shortanswer:: ps-why-not-sa
 
-   Explain why the code prints what it does. Why doesn't it swap the values?
+   Explain why the code prints what it does. Why doesn't it swap the values (x and y both have a value of 2 at the end)?
 
 Feedback
 ==================================
@@ -44,7 +46,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to go to the post test: <b><a id="ps-post"><font size="+2">Practice Problems</font></a></b></p>
+    <p>Click on the following link to go to the post test: <b><a id="ps-practice2"><font size="+2">Practice Problems</font></a></b></p>
 
 .. raw:: html
 

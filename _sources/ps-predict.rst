@@ -26,7 +26,7 @@ Read the code below and then answer the following question.
    :option_2: It will print: x = 2, y = 6, x = 6, y = 2
    :option_3: It will print: x = 6, y = 2, x = 2, y = 2
    :option_4: It will print: x = 2, y = 6, y = 6, y = 6 
-   :option_5: None of the above
+   :option_5: None of the above will print.
 
    What will the code above print?  To save space we are showing all of the answers on one line with a comma between values rather than on different lines.
 
